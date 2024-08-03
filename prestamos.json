@@ -1,0 +1,29 @@
+[
+    {
+        "id_prestamo": 1,
+        "id_socio": 1,
+        "id_libro": "2",
+        "fecha_prestamo": "2024-07-29",
+        "Costo": "$340",
+        "fecha_devolucion": "2024-08-12 00:00:00",
+        "estado_prestamo": false
+    },
+    {
+        "id_prestamo": 2,
+        "id_socio": 2,
+        "id_libro": "2",
+        "fecha_prestamo": "2024-07-30",
+        "Costo": "$500",
+        "fecha_devolucion": "2024-08-13 00:00:00",
+        "estado_prestamo": true
+    },
+    {
+        "id_prestamo": 3,
+        "id_socio": 2,
+        "id_libro": "2",
+        "fecha_prestamo": "2024-07-30",
+        "Costo": "$600",
+        "fecha_devolucion": "2024-08-13 00:00:00",
+        "estado_prestamo": true
+    }
+]

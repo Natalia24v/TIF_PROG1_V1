@@ -1,0 +1,29 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "The Art Of Deception",
+        "autor": "Kevin Mitnick",
+        "editorial": "Wiley",
+        "anio": "2002",
+        "genero": "Ingenieria social",
+        "disponibilidad": true
+    },
+    {
+        "id_libro": 2,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "editorial": "Austral",
+        "anio": "1949",
+        "genero": "Ciencia ficcion",
+        "disponibilidad": true
+    },
+    {
+        "id_libro": 3,
+        "titulo": "Cien A\u00f1os De Soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "editorial": "Sudamericana",
+        "anio": "1967",
+        "genero": "Realismo magico",
+        "disponibilidad": true
+    }
+]

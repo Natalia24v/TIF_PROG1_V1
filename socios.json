@@ -1,0 +1,23 @@
+[
+    {
+        "id_socio": 1,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": "32455433",
+        "telefono": "433255677",
+        "direccion": "Calle Falsa 123",
+        "email": "f",
+        "correo": "jp@example.com",
+        "fecha_nacimiento": "25/07/1998"
+    },
+    {
+        "id_socio": 2,
+        "nombre": "Alicia",
+        "apellido": "Mancilla",
+        "dni": "29900876",
+        "telefono": "324567878",
+        "direccion": "Calle 3 2344",
+        "correo": "am@example.com",
+        "fecha_nacimiento": "1980-05-23"
+    }
+]

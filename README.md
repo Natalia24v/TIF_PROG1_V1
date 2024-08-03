@@ -9,3 +9,4 @@ Requisitos Python 3.x Archivos JSON para almacenar datos.
 Uso Clona este repositorio. Ejecuta el archivo main.py. Sigue las instrucciones en la interfaz para interactuar con el sistema.
 
 version preeliminar falta arreglar generar reportes
+versio 1 solo python sin interfaz grafica
